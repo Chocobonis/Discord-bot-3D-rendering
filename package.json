@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.34",
+    "axios": "^1.2.6",
+    "canvas": "^2.11.0",
+    "canvas-constructor": "^7.0.0",
+    "dgram": "^1.0.1",
+    "discord-canvas": "^1.5.2",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ws": "^8.12.0"
+  }
+}
